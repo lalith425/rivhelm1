@@ -1,0 +1,12 @@
+dashboard:
+  name: "monitoring-app-helmtest"
+  namespace: "grafana-monitoring"
+  labels:
+    app: "grafana"
+    component: "dashboard"
+  description: "Dynamic dashboard for monitoring metrics and traces"
+  title: "Monitoring Dashboard for dev helmtst"
+  timeRange:
+    from: "now-6h"
+    to: "now"
+dashboardJson: {}

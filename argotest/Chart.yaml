@@ -1,0 +1,13 @@
+apiVersion: v1
+name: deployment
+version: 1.0.0
+description:  Dashboard Helm Chart
+keywords:
+- dashboard
+- helm
+home: https://github.com/lalith425/rivhelm1.git
+sources:
+- https://github.com/lalith425/rivhelm1.git/argotest
+maintainers:
+- name: lalith
+  email: lalithkumarrajendran08@gmail.com
